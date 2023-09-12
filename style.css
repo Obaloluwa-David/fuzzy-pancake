@@ -1,0 +1,11 @@
+h1{
+    color: red;
+    margin: 5px;
+    font-family: sans-serif;
+}
+
+p{
+    color: maroon;
+    margin: 12px;
+    text-shadow: 4px 4px 8px green;
+}
